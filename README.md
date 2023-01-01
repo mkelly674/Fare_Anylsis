@@ -7,6 +7,8 @@ Looking at the table, you can see that the urban enviroment is getting a lot mor
 
 ![summaryplot](https://user-images.githubusercontent.com/114030563/210183759-ef98c4c4-009c-435f-b379-4451ab4796ac.png)
 
-There is another thing that is interesting. If you look at the table, The amount of income is inversely proportion to the average. This is caused by urban cities having significantly more people with less travel distance than suburban and rural cities.
+There is another thing that is interesting. If you look at the table, The amount of income is inversely proportion to the average. This is caused by urban cities having significantly more people with less travel distance than suburban and rural cities. The drivers also get less from each fare which can slow down a drivers individual income because of the constant stops vs a long fare with possibly bigger tips.
+
+![2023-01-01 (2)](https://user-images.githubusercontent.com/114030563/210185128-7cde86c3-71a5-4109-8420-7270e93571ee.png)
 
 ## Summary
